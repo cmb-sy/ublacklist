@@ -1,2 +1,3 @@
-# Outline
-A list for excluding low-quality articles from search results.
+## Usage
+➀Please install ublacklist from the link below
+https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja
