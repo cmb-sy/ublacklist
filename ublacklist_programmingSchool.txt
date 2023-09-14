@@ -7,3 +7,4 @@ title/(プログラミング|オンライン|エンジニア|)+\s*(スクール|
 *://magazine.techacademy.jp/*
 *://www.javadrive.jp/*
 *://aiacademy.jp/*
+*://engineer-lifestyle-blog.com/*
