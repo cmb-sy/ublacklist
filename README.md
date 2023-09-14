@@ -4,11 +4,10 @@ https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmj
 
 ## ➁Add .txt file to your ubalcklist subscription
 ### Automatically setting
-Click the link below to automatically add your name and URL to your ublack list subscription<br><br>
+Click the link below to automatically add your name and URL to your ublack list subscription<br>
 #### Articles for programming beginners and programming school articles
 https://iorate.github.io/ublacklist/subscribe?name=ublacklist-programmingSchool&url=https://raw.githubusercontent.com/nakashima1125/ublacklist/main/ublacklist_programmingSchool.txt
-<br><br>
-
+<br>
 ### Manual setting
 Go to ublacklist subscription settings<br>
 ![image](https://github.com/nakashima1125/ublacklist/assets/63276819/383d5047-cecf-4c22-9884-473cf40bc3a7)<br>
