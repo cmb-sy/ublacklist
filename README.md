@@ -10,3 +10,4 @@ https://iorate.github.io/ublacklist/subscribe?name=ublacklist-programming-school
 
 ２－２
 下記のリンクを購読のURL部分に貼り付けて名前を任意のつける
+https://github.com/nakashima1125/ublacklist/blob/main/ublacklist_programmingSchool.txt
