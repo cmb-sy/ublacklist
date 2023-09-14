@@ -2,3 +2,5 @@
 *://www.sejuku.net/*
 *://camp.trainocate.co.jp/*
 *://python-academia.com/*
+*://www.tech-teacher.jp/*
+*://magazine.techacademy.jp/*
