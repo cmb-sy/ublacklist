@@ -1,3 +1,4 @@
+title/(プログラミング|オンライン|エンジニア|)+\s*(スクール|教室|講座|アカデミー)/
 *://flytech.work/*
 *://www.sejuku.net/*
 *://camp.trainocate.co.jp/*
