@@ -1,2 +1,1 @@
-Here I write match patterns for programming schools and low-quality explanatory articles.
 *://flytech.work/*
