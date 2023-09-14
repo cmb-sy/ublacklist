@@ -5,3 +5,4 @@
 *://www.tech-teacher.jp/*
 *://magazine.techacademy.jp/*
 *://www.javadrive.jp/*
+*://aiacademy.jp/*
