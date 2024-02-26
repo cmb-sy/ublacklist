@@ -12,3 +12,4 @@ title/(プログラミング|オンライン|エンジニア|)+\s*(スクール|
 *://kanda-it-school-kensyu.com/*
 *://gimo.jp/glossary/*
 *://trends.codecamp.jp/*
+*://www.if-kids.net/*
