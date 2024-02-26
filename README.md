@@ -13,7 +13,7 @@ Go to ublacklist subscription settings<br>
 ![image](https://github.com/cmb-sy/ublacklist/assets/63276819/383d5047-cecf-4c22-9884-473cf40bc3a7)<br>
 
 Add a link to the URL below and give it a name of your choice<br>
-https://raw.githubusercontent.com/cmb-sy/ublacklist/main/ublacklist_programmingSchool.txt<br>
+https://raw.githubusercontent.com/cmb-sy/ublacklist/main/ublacklist.txt<br>
 ![image](https://github.com/cmb-sy/ublacklist/assets/63276819/1e2c08e5-1a56-486d-a681-5949ce90eb23)
 
 # Reference 
