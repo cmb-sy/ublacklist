@@ -13,3 +13,4 @@ title/(プログラミング|オンライン|エンジニア|)+\s*(スクール|
 *://gimo.jp/glossary/*
 *://trends.codecamp.jp/*
 *://www.if-kids.net/*
+*://one-div.com/*
