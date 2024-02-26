@@ -8,3 +8,6 @@ title/(プログラミング|オンライン|エンジニア|)+\s*(スクール|
 *://www.javadrive.jp/*
 *://aiacademy.jp/*
 *://engineer-lifestyle-blog.com/*
+*://www.saga-pg.com/*
+*://kanda-it-school-kensyu.com/*
+*://gimo.jp/glossary/*
