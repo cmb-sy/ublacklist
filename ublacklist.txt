@@ -14,3 +14,9 @@ title/(プログラミング|オンライン|エンジニア|)+\s*(スクール|
 *://trends.codecamp.jp/*
 *://www.if-kids.net/*
 *://one-div.com/*
+*://nippon-programming-school.com/voice/voice-38/
+*://tech-dream.school/blog/archives/456
+*://www.work-school.com/*
+*://advan-school.jp/*
+*://nippon-programming-school.com/*
+*://ninjacode.work/*
