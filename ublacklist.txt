@@ -11,3 +11,4 @@ title/(プログラミング|オンライン|エンジニア|)+\s*(スクール|
 *://www.saga-pg.com/*
 *://kanda-it-school-kensyu.com/*
 *://gimo.jp/glossary/*
+*://trends.codecamp.jp/*
