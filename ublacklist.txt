@@ -22,3 +22,4 @@ title/(プログラミング|オンライン|エンジニア|)+\s*(スクール|
 *://ninjacode.work/*
 *://kenchan-programming.com/*
 *://*.fushigiame.jp/*
+*://*.shiro-changelife.com/*
