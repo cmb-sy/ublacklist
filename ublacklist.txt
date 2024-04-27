@@ -23,3 +23,4 @@ title/(プログラミング|オンライン|エンジニア|)+\s*(スクール|
 *://kenchan-programming.com/*
 *://*.fushigiame.jp/*
 *://*.shiro-changelife.com/*
+*://*.web-camp.io//*
