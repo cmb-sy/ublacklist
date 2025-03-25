@@ -24,3 +24,4 @@ title/(プログラミング|オンライン|エンジニア|)+\s*(スクール|
 *://*.fushigiame.jp/*
 *://*.shiro-changelife.com/*
 *://*.web-camp.io//*
+*://i-ssue.com/*
